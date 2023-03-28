@@ -14,8 +14,8 @@
         - [x] - discuss about implemenation in julia and results (compare with gpu)
 - [] - Introduction
     - [x] - About the DAR system, optimization function
-    - [] - Why greedy wont work - local optima vs global optima
-    - [] - Brief description about Meta Heuristics, and their role in optimization problems
+    - [x] - Why greedy wont work - local optima vs global optima
+    - [x] - Brief description about Meta Heuristics, and their role in optimization problems
     - [] - Brief description about Granular Tabu Search and its various applications
 - [] - Formulation
     - [] - More about optimization function and how it is calculated
